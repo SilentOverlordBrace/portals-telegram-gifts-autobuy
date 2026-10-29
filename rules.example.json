@@ -1,0 +1,7 @@
+[
+  {"collection": "Lol Pop", "max_price_ton": 3, "min_discount_pct": 25, "min_profit_ton": 0.2, "mode": "confirm"},
+  {"collection": "Plush Pepe", "model": "Pepemint", "max_price_ton": 5000, "min_discount_pct": 15,
+   "min_confidence": "high", "min_profit_pct": 5, "mode": "watch", "exit": "best"},
+  {"collection": "Ice Cream", "backdrop": "Black", "max_price_ton": 4, "min_discount_pct": 20, "allow_locked_days": 0,
+   "mode": "auto", "enabled": false}
+]

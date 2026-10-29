@@ -1,0 +1,16 @@
+{
+  "key": "portals-autobuy",
+  "title": "Portals Autobuy",
+  "eyebrow": "Telegram Gifts · Portals",
+  "tagline": "Gift sniper for Portals that prices deals net of fees and asks Telegram for a second opinion",
+  "chips": [
+    "Dry-run by default",
+    "Python 3.11+",
+    "aiogram 3"
+  ],
+  "accent": [
+    "#8B5CF6",
+    "#F472B6"
+  ],
+  "icon": "portal"
+}
